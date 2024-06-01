@@ -1,0 +1,12 @@
+[deps]
+ConstrainedPOMDPModels = "b9836d1e-ed91-41e9-8327-a08d60bfad32"
+ConstrainedPOMDPs = "7a9489b1-4b84-4e64-8108-bdcab6d54d2c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NativeSARSOP = "a07c76ea-660d-4c9a-8028-2e6dbd212cb8"
+POMDPModels = "355abbd5-f08e-5560-ac9e-8b5f2592a0ca"
+POMDPTools = "7588e00f-9cae-40de-98dc-e0c70c48cdd7"
+POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+RockSample = "de008ff0-c357-11e8-3329-7fe746fe836e"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
